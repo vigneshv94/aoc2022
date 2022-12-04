@@ -1,0 +1,11 @@
+{
+  "name": "adventofcode",
+  "version": "1.0.2022",
+  "description": "Advent Of Code 2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vignesh Velu",
+  "license": "ISC"
+}
