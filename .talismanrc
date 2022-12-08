@@ -3,4 +3,6 @@ fileignoreconfig:
   checksum: 565b17e15044c47f1446ed4902f07405103aa3c1992d62804fee53c9e439da50
 - filename: day3/day_3_2.js
   checksum: 21cbd9d18753d5c1538a8456c2fdcef83d04db10a2699e982b11a1a38bff559d
+- filename: day8/day_8_input.txt
+  checksum: 40ef2bca22e498c38639b905c49eed88341f1d81be7224056a63d4725a3fad24
 version: "1.0"
